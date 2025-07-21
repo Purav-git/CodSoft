@@ -14,7 +14,7 @@ Each app is written in Python and designed for easy setup and use.
 ## 1. To-Do List Application
 
 **Description:**  
-A simple command-line application that lets you add, view, update, and remove tasks in your to-do list. Tasks are stored in a file (`Task-1.py`) for persistence between sessions.
+A simple command-line application that lets you add, view, update, and remove tasks in your to-do list. Tasks are stored in a file (`Task-1.py`)
 
 **Features:**
 - Add a new task
@@ -24,7 +24,8 @@ A simple command-line application that lets you add, view, update, and remove ta
 ## 2. Calculator Application
 
 **Description:**  
-A basic calculator that performs addition, subtraction, multiplication, and division. The user inputs two numbers and selects the desired operation.
+A basic calculator that performs addition, subtraction, multiplication, and division. The user inputs two numbers and selects the desired operation. Tasks are stored in a file (`Task-2.py`)
+
 
 **Features:**
 - Supports four basic arithmetic operations
@@ -34,7 +35,8 @@ A basic calculator that performs addition, subtraction, multiplication, and divi
 ## 3. Rock Paper Scissors Game
 
 **Description:**  
-A single-player game where you choose rock, paper, or scissors and compete against the computer. The app determines the winner based on classic rules and keeps score.
+A single-player game where you choose rock, paper, or scissors and compete against the computer. The app determines the winner based on classic rules and keeps score. Tasks are stored in a file (`Task-3.py`)
+
 
 **Features:**
 - Play against the computer
